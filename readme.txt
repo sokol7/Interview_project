@@ -21,4 +21,6 @@ SETUP
 - To change website url address which should be tested, please open the TestData.java module
   and specify test url address
 
+- By default code tests the "rozetka" website, if you want to change tested website, please change locators values on appropriate  (path with locators -  "Interview_project/src/test/java/locators/")
+
 
